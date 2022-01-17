@@ -1,0 +1,16 @@
+# github.com/PuerkitoBio/goquery v1.7.1
+## explicit
+github.com/PuerkitoBio/goquery
+# github.com/andybalholm/cascadia v1.2.0
+github.com/andybalholm/cascadia
+# github.com/joho/godotenv v1.4.0
+## explicit
+github.com/joho/godotenv
+# github.com/szpp-dev-team/gakujo-api v0.0.0-20211025033351-d27d898a38fd
+## explicit
+github.com/szpp-dev-team/gakujo-api/model
+github.com/szpp-dev-team/gakujo-api/scrape
+github.com/szpp-dev-team/gakujo-api/util
+# golang.org/x/net v0.0.0-20210716203947-853a461950ff
+golang.org/x/net/html
+golang.org/x/net/html/atom
