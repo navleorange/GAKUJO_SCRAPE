@@ -7,7 +7,8 @@ import (
 	"net/url"
 	"time"
 
-	"../model"
+	"test/model"
+
 	"github.com/PuerkitoBio/goquery"
 	"github.com/szpp-dev-team/gakujo-api/util"
 )
